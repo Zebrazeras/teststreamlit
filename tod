@@ -1,0 +1,2 @@
+git clone https://github.com/Zebrazeras/teststreamlit
+streamlit run main.py
